@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ArthurDroidBurger</string>
+    <string-array name="burger_list">
+        <item>Selectionnez le Burger</item>
+        <item>Burger du chef</item>
+        <item>Cheese Burger</item>
+        <item>Burger Montagnard</item>
+        <item>Burger Italien</item>
+        <item>Burger Végétarien</item>
+    </string-array>
+</resources>
